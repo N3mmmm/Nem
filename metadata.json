@@ -1,0 +1,5 @@
+{
+  "name": "React Fire: Battle Royale Prototype",
+  "description": "A web-based First Person Shooter prototype featuring recoil mechanics, expanding safe zones, inventory system, and 3D player movement built with React Three Fiber.",
+  "requestFramePermissions": []
+}
